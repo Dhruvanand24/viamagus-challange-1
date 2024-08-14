@@ -9,7 +9,7 @@ const Login = () => {
       <div className="">
         <img src={Banner} className="w-screen  sm:max-w-full" alt="" />
       </div>
-      <div className="absolute w-full h-full mt-32">
+      <div className="absolute px-4 h-full mt-32">
         <LoginForm />
       </div>
     </div>

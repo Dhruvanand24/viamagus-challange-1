@@ -42,7 +42,7 @@ const LoginForm = () => {
 
   return (
     <div className="w-full flex justify-center font-JF px-4">
-      <div className="flex flex-col lg:min-w-[385px] mx-4 lg:w-[40%] md:w-[40%] w-full sm:min-w-full rounded-md bg-white items-center">
+      <div className="flex flex-col lg:min-w-[385px] mx-4 lg:w-[40%] md:w-[40%] w-[90%] sm:min-w-full rounded-md bg-white items-center">
         <div className="flex min-w-[385px] justify-center p-4 items-center shadow-lg w-full">
           <img src={Amazon} alt="Amazon Logo" className="h-8" />
         </div>
